@@ -6,12 +6,12 @@
 a {
   outline: none;
   text-decoration:none;
-  color: #DA4930;
+  color: #FE9A2E;
 }
 
 body {
   text-align: center;
-  background-image: url(images/left.png) no-repeat bottom left fixed;
+  background-image: url(http://beatlesalbumcovers.net/wp-content/uploads/the-beatles-abbey-road-album-cover.jpg) no-repeat bottom left fixed;
   background-color: #F26522;
   background-size: auto auto, auto auto, 50px 50px, 50px 50px, auto auto;*/
   color: #DA4930;
