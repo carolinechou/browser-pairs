@@ -100,10 +100,10 @@ body {
    hosted anyhwere on the internet by using its url in the "url()" rule. */
 .ie {background: url(http://beatlesalbumcovers.net/wp-content/uploads/the-beatles-let-it-be-album-cover.jpg) no-repeat; background-size: contain;}
 .fx {background: url(http://scoopertino.com/wp-content/uploads/2010/04/beatles_cover.jpg) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
+.cr {background: url(http://beatlesalbumcovers.net/wp-content/uploads/the-beatles-yellow-submarine-album-cover.jpg) no-repeat; background-size: contain;}
+.sf {background: url(http://beatlesalbumcovers.net/wp-content/uploads/the-beatles-help-album-cover.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://beatlesalbumcovers.net/wp-content/uploads/the-beatles-rubber-soul-album-cover-parlophone.jpg) no-repeat; background-size: contain;}
+.ns {background: url(http://beatlesalbumcovers.net/wp-content/uploads/the-beatles-please-please-me-album-cover.jpg) no-repeat; background-size: contain;}
 .tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
 .fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
 
